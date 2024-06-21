@@ -1,0 +1,18 @@
+.photoaside{
+    background-color: #00236C;
+    width: 835px;
+    max-width: 835px;
+    height: 1024px;
+    max-height: 1024px;
+    
+}
+.logincomponent{
+    /* background-color:pink; */
+    width: 835px;
+    max-width: 835px;
+    height: 1024px;
+    max-height: 1024px;
+}
+.main{
+    display: flex;
+}
